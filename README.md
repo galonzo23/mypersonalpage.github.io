@@ -18,7 +18,7 @@ Step 3: Once logged in, select the dropdown in the upper-right and select <b>You
 Step 4: In your repositories, you'll want to click the green <b>New</b> button to start a new repository:
 ![](screens/screen02.png)
 
-Step 5: Enter an address that your page will be accessed at github.io, so for example, "mypersonalpage.github.io" and select the green <b>Create repository</b> button at teh bottom:
+Step 5: Enter the address that your page will be accessed from, which will be your GitHub username at github.io; so for example, say your username was mypersonalpage, then you'll enter "mypersonalpage.github.io" and select the green <b>Create repository</b> button at the bottom:
 ![](screens/screen03.png)
 
 Step 6: You'll see a Quick setup message, where you'll select the link that says Uploading an existing file:
