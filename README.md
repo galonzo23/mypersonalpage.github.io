@@ -13,7 +13,7 @@ Step 1: First, you'll need some content for your web page, so create a folder an
 Step 2: If you haven't done so already, create an account and log in at https://www.github.com
 
 Step 3: Once logged in, select the dropdown in the upper-right and select <b>Your repositories</b>:
-![](screens/screen01.png)
+<img src="screens/screen01.png" />
 
 Step 4: In your repositories, you'll want to click the green <b>New</b> button to start a new repository:
 ![](screens/screen02.png)
