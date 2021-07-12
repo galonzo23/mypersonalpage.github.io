@@ -1,4 +1,4 @@
-# mypersonalpage.github.io
+<Table> <tr> <td bgcolor = white>
 <h1>Beginner's Guide To Creating a Personal Web Page on GitHub</h1>
 
 The first step of becoming a web developer is to publish your first webpage. Here's a simple step-by-step tutorial on how to do so:
@@ -28,3 +28,4 @@ The first step of becoming a web developer is to publish your first webpage. Her
 ![](screens/screen05.png)
 
 <b>Step 8:</b> Open a new browser window or tab and type in the address of your repository from step 5, and you'll see that your page is live!
+</ td> </ tr> </ table>
