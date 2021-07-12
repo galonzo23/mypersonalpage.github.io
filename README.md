@@ -1,4 +1,4 @@
-<Table> <tr> <td bgcolor = white>
+<Table> <tr> <td>
 <h1>Beginner's Guide To Creating a Personal Web Page on GitHub</h1>
 
 The first step of becoming a web developer is to publish your first webpage. Here's a simple step-by-step tutorial on how to do so:
