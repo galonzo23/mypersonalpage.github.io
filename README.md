@@ -3,7 +3,7 @@
 The first step of becoming a web developer is to publish your first webpage. Here's a simple step-by-step tutorial on how to do so:
 
 <b>Step 1:</b><br> 
-First, you'll need some content for your web page, so create a folder and add an image file you would like to display, for example a profile picture (I will use mine in this example, the file name is "profilePic.jpg"). We will also add a new file, created in your favorite code editor (or a "plain text" file created in Notepad for Windows, or TextEdit on MacOS), and name it "index.html", with the following basic HTML code in it that has header text and references your image file:
+First, you'll need some content for your web page, so create a folder and add an image file you would like to display, for example a profile picture (I will use mine in this example, the file name is "profilePic.jpg"). We will also add a new file, created in your favorite code editor (or a "plain text" file created in Notepad for Windows, or TextEdit on MacOS), and name it "index.html", with the following basic HTML code in it that has header text and a reference to your image file:
 ```html
 <html>
     <h1>My Personal Webpage</h1>
