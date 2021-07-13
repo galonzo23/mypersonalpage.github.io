@@ -21,7 +21,7 @@ In your repositories, you'll want to click the green <b>New</b> button to start 
 <img src="screens/screen02.png" /></li>
 
 <li><b>Step 5:</b><br>
-Enter the address that your page will be accessed from, which will be your GitHub username at github.io; so for example, say your username was mypersonalpage, then you'll enter "mypersonalpage.github.io" and select the green <b>Create repository</b> button at the bottom:<br>
+Enter the address that your page will be accessed from, which will be your GitHub username at github.io; so for example, say your username is mypersonalpage, then you'll enter "mypersonalpage.github.io" and select the green <b>Create repository</b> button at the bottom:<br>
 <img src="screens/screen03.png" /></li>
 
 <li><b>Step 6:</b><br>
